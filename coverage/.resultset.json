@@ -1,23 +1,84 @@
 {
   "Unit Tests": {
     "coverage": {
-      "/Users/aleneschlereth/turing/1710/exercises/denver_public_library/test/book_test.rb": [
+      "/Users/jlivingston1/Turing/1module/denver_puplic_library/lib/library.rb": [
+        1,
+        1,
         1,
         null,
         1,
+        1,
+        null,
+        1,
+        5,
+        null,
+        null,
+        1,
+        6,
+        6,
+        null,
+        null,
+        null,
+        1,
+        2,
+        2,
+        5,
+        1,
+        null,
+        null,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
         null,
         null,
         null
       ],
-      "/Users/aleneschlereth/turing/1710/exercises/denver_public_library/test/library_test.rb": [
+      "/Users/jlivingston1/Turing/1module/denver_puplic_library/lib/author.rb": [
+        1,
+        1,
         1,
         null,
         1,
+        null,
+        1,
+        4,
+        4,
+        4,
+        null,
+        null,
+        1,
+        6,
+        null,
+        null,
+        null,
+        6,
+        6,
+        null,
+        null,
+        null
+      ],
+      "/Users/jlivingston1/Turing/1module/denver_puplic_library/lib/book.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        6,
+        6,
+        6,
+        6,
+        null,
         null,
         null,
         null
       ]
     },
-    "timestamp": 1508521288
+    "timestamp": 1523465710
   }
 }
